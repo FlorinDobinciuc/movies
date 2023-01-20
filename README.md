@@ -1,0 +1,1 @@
+This is a Django REST Api mini-project.
